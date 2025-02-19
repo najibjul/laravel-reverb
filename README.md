@@ -11,6 +11,6 @@
 11. npm run dev
 12. php artisan queue:listen
 13. php artisan reverb:start --debug
-14. Run http:127.0.0.1:8000
+14. Run http://127.0.0.1:8000
 15. Check console
-17. Open new tab, and type http:127.0.0.1:8000/send
+17. Open new tab, and type http://127.0.0.1:8000/send
